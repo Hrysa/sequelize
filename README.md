@@ -18,9 +18,11 @@ Sequelize is a promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite an
 
 Sequelize follows [SEMVER](http://semver.org). Supports Node v6 and above to use ES6 features.
 
+New to Sequelize? Take a look at the [Tutorials and Guides](http://docs.sequelizejs.com/). You might also be interested in the [API Reference](http://docs.sequelizejs.com/identifiers).
+
 ## v5 Release
 
-You can find the upgrade guide and changelog in [upgrade-to-v5.md](https://github.com/sequelize/sequelize/blob/master/docs/upgrade-to-v5.md).
+You can find the upgrade guide and changelog [here](http://docs.sequelizejs.com/manual/upgrade-to-v5.html).
 
 ## Table of Contents
 - [Installation](#installation)
@@ -59,7 +61,7 @@ If you have any security issue to report, contact project maintainers privately.
 ### Tools
 - [Sequelize & TypeScript](https://github.com/RobinBuschmann/sequelize-typescript)
 - [Sequelize & GraphQL](https://github.com/mickhansen/graphql-sequelize)
-- [Add-ons & Plugins](https://github.com/sequelize/sequelize/wiki/Add-ons-&-Plugins)
+- [Add-ons & Plugins](http://docs.sequelizejs.com/manual/resources.html)
 - [Sequelize CLI](https://github.com/sequelize/cli)
 
 ### Learning
